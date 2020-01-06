@@ -5,3 +5,4 @@ Resolusi 2020
 4. Membuat suatu aplikasi dengan menerapkan Java
 5. Lancarkan bahasa inggris
 6. Mendapatkan tempat magang yang keren
+7. Membuat startup
