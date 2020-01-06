@@ -4,3 +4,4 @@ Resolusi 2020
 3. Mampu menguasai OOP Java
 4. Membuat suatu aplikasi dengan menerapkan Java
 5. Lancarkan bahasa inggris
+6. Mendapatkan tempat magang yang keren
